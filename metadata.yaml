@@ -1,0 +1,30 @@
+_repo: Droozle_23148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Banta, Frank
+    gutenberg_agent_id: '25711'
+    url: http://www.gutenberg.org/2009/agents/25711
+description: 'After finishing college, Jean Lanni did what many new college graduates
+  of his era did: spent some quality time traveling around the universe. But instead
+  of the typical souvenirs like t-shirts or shot glasses, he brought back a remarkable
+  creature as a souvenir of his intergalactic wanderings. In this delightful short
+  story, Droozle tires of being a novelty and begins to speak his mind.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Droozle
+url: http://www.gutenberg.org/ebooks/23148
